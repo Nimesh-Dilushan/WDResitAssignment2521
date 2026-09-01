@@ -1,0 +1,6 @@
+[
+  { "id": "entertainment", "name": "Entertainment", "color": "purple" },
+  { "id": "productivity", "name": "Productivity", "color": "blue" },
+  { "id": "fitness", "name": "Health & Fitness", "color": "emerald" },
+  { "id": "utilities", "name": "Utilities & Bills", "color": "amber" }
+]
